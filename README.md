@@ -18,3 +18,7 @@ Plugins (Paper) — 16 curated recommended plugins with direct download links, s
 server.properties — quick-settings dropdowns for gamemode/difficulty/pvp/port etc, plus full raw editor with save
 playit.gg Tunnel — one-click download of the playit agent, start/stop tunnel, live tunnel output showing your public address
 Settings — Java path auto-detect or browse, default RAM, link to Java 21 download
+
+
+<img width="1559" height="1010" alt="image" src="https://github.com/user-attachments/assets/2978a09a-af33-4c6a-a8ba-86c25ee407f5" />
+
